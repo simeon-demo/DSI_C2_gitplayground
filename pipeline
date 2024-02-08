@@ -1,3 +1,10 @@
 Basic features: Complete
 Expanded features: In progress
 ramin's feature: I am adding a new feature here
+
+<<<<<<< HEAD
+Passin by
+=======
+More expanded features: Writing more code
+
+>>>>>>> 4223527e0d10aab391763903384ecb41279df602
